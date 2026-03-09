@@ -1,3 +1,4 @@
+HelloWorld. Pascal Tutorials. Platform DotNet FrameWork. Simple Input/Output. Console Application.
 A console application in the Pascal programming language. 
 Simple display of the phrase "Hello, World."
 Developed in the Pascal ABCDotNet integrated environment.
